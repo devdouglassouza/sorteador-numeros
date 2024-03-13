@@ -11,5 +11,5 @@
 </h4>
 
 <h4 align="left"> 
-    # 🛠️ Abrir e rodar o projeto :
+    # 🛠️ Abrir e rodar o projeto : https://devdouglassouza.github.io/sorteador-numeros/
 </h4>
