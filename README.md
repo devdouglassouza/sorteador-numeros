@@ -18,7 +18,12 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
 
-## 👨‍🎓👨‍💻 Objetivos acadêmicos do projeto
+<br>
+
+
+<h4 align="left"> 
+    ## 👨‍🎓👨‍💻 Objetivos acadêmicos do projeto
+</h4>
 
 - Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;
 - Declarar variáveis no JavaScript para armazenar elementos recuperados da página;
