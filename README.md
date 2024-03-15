@@ -18,8 +18,14 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
 
-<br>
+<br><br>
 
+<h4 align="left"> 
+    ## 👨‍🎓👨‍💻 Objetivos do projeto:
+</h4>
+- O projeto visa apresentar uma página web, onde de forma dinâmica, o usuário possa gerar uma sequência de números aleátorios através de um sorteio. Sem limite de números e com restrição de números repetidos no intervalo sorteado. Podendo repetir o sorteio de forma simples, apenas usando um botão, "reiniciar".
+
+<br><br>
 
 <h4 align="left"> 
     ## 👨‍🎓👨‍💻 Objetivos acadêmicos do projeto:
